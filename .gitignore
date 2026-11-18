@@ -1,0 +1,22 @@
+# Compiled example programs
+bin/
+
+# Example output
+results/
+
+# ColorFull build: unpacked source tree and installed library.
+# Both are rebuilt from downloads/rpm/ColorFull-1.1.tar.gz (see README).
+ColorFull-1.1/
+install/
+
+# Logs
+*.log
+
+# Editors / macOS
+.DS_Store
+.vscode/
+*~
+
+# Kept locally, not tracked: thesis PDF and downloaded sources
+lib/
+downloads/
